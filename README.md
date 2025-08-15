@@ -1,4 +1,4 @@
-# INTEL-PRODUCTS-SENTIMENT-ANALYSIS-FROM-ONLINR-REVIEWS
+# INTEL-PRODUCTS-SENTIMENT-ANALYSIS-FROM-ONLINE-REVIEWS
 
 This project performs sentiment analysis on Intel products using various data scraping, preprocessing, and machine learning techniques.
 
